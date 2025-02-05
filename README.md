@@ -3,7 +3,7 @@
 Welcome to my personal Blog website! This is a place where I showcase my work, projects, and connect with professionals.
 
 ## 🌐 Live Website
-[Visit Blog](#) **
+[Visit Blog](#) *https://pushpakumale.github.io/blog/*
 
 ## 📌 About
 This blog website features my professional background, projects and ways to connect with me.
